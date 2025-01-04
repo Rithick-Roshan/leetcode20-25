@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -31,4 +32,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
