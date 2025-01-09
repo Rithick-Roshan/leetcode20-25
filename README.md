@@ -89,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0059-spiral-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
