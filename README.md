@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0763-special-binary-string) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-special-binary-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0763-special-binary-string) |
+## Greedy
+|  |
+| ------- |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2687-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
