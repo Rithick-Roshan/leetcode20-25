@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0763-special-binary-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1078-remove-outermost-parentheses) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Rolling Hash
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1078-remove-outermost-parentheses) |
+## Counting
+|  |
+| ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
