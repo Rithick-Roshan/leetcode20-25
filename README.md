@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0020-valid-parentheses) |
+| [0087-scramble-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0087-scramble-string) |
 | [0214-shortest-palindrome](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0763-special-binary-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1078-remove-outermost-parentheses) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
