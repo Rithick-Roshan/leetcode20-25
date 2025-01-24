@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0215-kth-largest-element-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0087-scramble-string) |
 | [0376-wiggle-subsequence](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0376-wiggle-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
