@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0215-kth-largest-element-in-an-array) |
 | [0376-wiggle-subsequence](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0376-wiggle-subsequence) |
+| [0403-frog-jump](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0403-frog-jump) |
 | [0695-max-area-of-island](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0087-scramble-string) |
 | [0376-wiggle-subsequence](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0376-wiggle-subsequence) |
+| [0403-frog-jump](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0403-frog-jump) |
 | [1517-restore-the-array](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1517-restore-the-array) |
 ## Two Pointers
 |  |
