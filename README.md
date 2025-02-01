@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0059-spiral-matrix-ii) |
+| [0139-word-break](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0221-maximal-square) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0139-word-break) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0020-valid-parentheses) |
 | [0087-scramble-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0087-scramble-string) |
+| [0139-word-break](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0763-special-binary-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1078-remove-outermost-parentheses) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0087-scramble-string) |
+| [0139-word-break](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0403-frog-jump) |
@@ -152,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0015-3sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
