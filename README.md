@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0695-max-area-of-island) |
+| [0871-keys-and-rooms](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0695-max-area-of-island) |
+| [0871-keys-and-rooms](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0139-word-break) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
