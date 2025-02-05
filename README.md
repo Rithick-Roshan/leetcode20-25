@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0283-move-zeroes) |
 | [0376-wiggle-subsequence](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0403-frog-jump) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0139-word-break) |
+| [0268-missing-number](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -172,4 +175,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0871-keys-and-rooms) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
