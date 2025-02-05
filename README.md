@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0283-move-zeroes) |
 | [0376-wiggle-subsequence](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0403-frog-jump) |
+| [0485-max-consecutive-ones](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0967-minimum-falling-path-sum) |
 ## Union Find
