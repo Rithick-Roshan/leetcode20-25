@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0763-special-binary-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1078-remove-outermost-parentheses) |
 | [1517-restore-the-array](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1517-restore-the-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Rolling Hash
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0376-wiggle-subsequence) |
+| [2032-largest-odd-number-in-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2032-largest-odd-number-in-string) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
