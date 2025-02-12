@@ -1,9 +1,10 @@
-void reverseString(char* s, int sSize) {
+void reverseString(char* s, int n) {
     
-    for(int i=0;i<sSize/2;i++){
+    // int n=strlen(s);
+
+    for(int i=0,m=n-1;i<n/2;i++,m--){
         char t=s[i];
-        s[i]=s[sSize-i-1];
-        s[sSize-i-1]=t;
+        s[i]=s[m];
+        s[m]=t;
     }
-    printf("%s",s);
 }
