@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0059-spiral-matrix-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
