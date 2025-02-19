@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0967-minimum-falling-path-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Union Find
 |  |
 | ------- |
