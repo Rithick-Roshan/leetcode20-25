@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0021-merge-two-sorted-lists) |
 | [0763-special-binary-string](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0763-special-binary-string) |
 ## Greedy
 |  |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
