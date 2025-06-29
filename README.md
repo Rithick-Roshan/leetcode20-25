@@ -215,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0021-merge-two-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Rithick-Roshan/leetcode20-25/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
